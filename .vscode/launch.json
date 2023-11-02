@@ -12,9 +12,9 @@
         },
         {
             "type": "java",
-            "name": "TarefaPOO_FX_Ex21",
+            "name": "AlunoTela",
             "request": "launch",
-            "mainClass": "TarefaPOO_FX_Ex21",
+            "mainClass": "AlunoTela",
             "projectName": "TarefaPOO_FX_Ex21_dabfa446",
             "vmArgs": "--module-path \"C:/IDE's/Jdk's/javafx-sdk-21.0.1/lib\" --add-modules javafx.controls,javafx.fxml"
         }
